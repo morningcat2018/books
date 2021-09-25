@@ -5,6 +5,10 @@
 - 百年孤独-加西亚.pdf
 - One Hundred Years of Solitude - Gabriel Garcia Marquez.pdf
 
+## algorithm
+
+- 算法（第4版）.pdf
+
 ## Big Data
 
 - google
@@ -15,8 +19,12 @@
 
 ## Computer
 
+- 深入理解计算机系统-第2版.pdf
+- ASCII.png
 - Computer Organization and Architecture 9th.pdf
 - Computer Organization and Design RISC-V edition.pdf
+- Computer.Systems.A.Programmer_s.Perspective.pdf
+- Structure and Interpretation of Computer Programs-Second edition.pdf
 - x86.pdf
 
 ## Git
@@ -25,12 +33,21 @@
 - Pro Git 2010-07-02.pdf
 - Pro Git 2010-09-21.pdf
 
+## Kubernetes
+
+- Kubernetes in Action.pdf
+
 ## Linux
 
 - 笨笨兔的故事 - 新版.pdf
 
 ## programming ideas
 
+- 代码之美-精选版.pdf
+- 代码之美.pdf
+- 架构之美-精选版.pdf
+- 软件工程—实践者的研究方法.pdf
+- 微服务：从设计到部署(中文完整版).pdf
 - The Dependency Inversion Principle.pdf
 
 ## rfc
@@ -43,13 +60,25 @@
 ## software
 
 - c
+    - ISO_IEC_9899_1999_ANSI.C.pdf
+    - ISO_IEC_14882_ANSI.CPP.Standard.pdf
     - theCprogrammingLanguage.pdf
 - database
+    - elasticsearch
+        - elasticsearch权威指南-the-definitive-guide-cn.pdf
     - mongdb
-        - 深入学习MongoDB.pdf 
+        - 深入学习MongoDB.pdf
+    - mysql
+        - Understanding.Mysql.Internals.Apr.2007.pdf
     - sql
         - SQL反模式(中文完整版).pdf
+    - sqlite
+        - 全面解析_SQLite.pdf
+        - SQLite_权威指南_中文版.pdf
+        - sqlite3-基础教程.pdf
 - java
+    - Concurrent Programming in Java™- Design Principles and Pattern.pdf
+    - Design.Patterns.in.Java Steven.John.Metsker.pdf
     - EffectiveJava-SecondEdition.pdf
     - EffectiveJava2.pdf
     - EffectiveJava2中文版.pdf
@@ -63,12 +92,21 @@
 - javascript
     - 数据结构与算法JavaScript描述.pdf
     - Proposed ECMAScript 4th Edition – Language Overview.pdf
+- jmeter
+    - JMeter中文使用手册.pdf
 - JVM
     - Getting Started with the G1 Garbage Collector.pdf
+    - Java虚拟机规范（Java SE 7）.pdf
     - memorymanagement-whitepaper-150215.pdf
 - Servlet
     - servlet-3_1-final.pdf
     - Servlet3.1规范（最终版）.pdf
+- spring
+    - Spring.in.Action.5th.Edition.pdf
+    - Spring教程v1.0.pdf
+    - Spring实战（第4版）.pdf
+- zookeeper
+    - ZooKeeper.pdf
 
 ---
 
