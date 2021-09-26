@@ -60,8 +60,12 @@
 ## software
 
 - c
+    - C99.pdf
+    - C标准库.pdf
+    - C程序设计语言_K&R_中文版.pdf
     - ISO_IEC_9899_1999_ANSI.C.pdf
     - ISO_IEC_14882_ANSI.CPP.Standard.pdf
+    - The.C.Programming.Language.2Nd.Ed Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie.pdf
     - theCprogrammingLanguage.pdf
 - database
     - elasticsearch
