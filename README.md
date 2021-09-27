@@ -5,10 +5,6 @@
 - 百年孤独-加西亚.pdf
 - One Hundred Years of Solitude - Gabriel Garcia Marquez.pdf
 
-## algorithm
-
-- 算法（第4版）.pdf
-
 ## Big Data
 
 - google
@@ -30,12 +26,7 @@
 ## Git
 
 - Git常用命令.pdf
-- Pro Git 2010-07-02.pdf
 - Pro Git 2010-09-21.pdf
-
-## Kubernetes
-
-- Kubernetes in Action.pdf
 
 ## Linux
 
@@ -75,11 +66,9 @@
     - mysql
         - Understanding.Mysql.Internals.Apr.2007.pdf
     - sql
-        - SQL反模式(中文完整版).pdf
     - sqlite
         - 全面解析_SQLite.pdf
         - SQLite_权威指南_中文版.pdf
-        - sqlite3-基础教程.pdf
 - java
     - Concurrent Programming in Java™- Design Principles and Pattern.pdf
     - Design.Patterns.in.Java Steven.John.Metsker.pdf
@@ -89,7 +78,6 @@
     - Java 8函数式编程.pdf
     - Java 8实战.pdf
     - Java本地接口(JNI)编程指南和规范2.pdf
-    - JDK_API_1_6_zh_CN.CHM
     - lecture20.pdf
     - One-on-One J2EE Development without EJB
         - One-on-One J2EE Development without EJB (Rod Johnson - Wrox).pdf
@@ -111,11 +99,3 @@
     - Spring实战（第4版）.pdf
 - zookeeper
     - ZooKeeper.pdf
-
----
-
-> git add * 
-
-> git commit -m "第N批资料"
-
-> git push -u origin main   
